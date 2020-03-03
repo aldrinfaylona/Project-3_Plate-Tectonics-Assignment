@@ -5,7 +5,7 @@
 
 
 
-
+ #   Questions:
 
 a.Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?
 b.What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area?

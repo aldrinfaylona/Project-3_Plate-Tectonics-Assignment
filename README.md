@@ -1,6 +1,6 @@
 # Project-3_Plate-Tectonics-Assignment
 
-#Introduction:
+##Introduction:
 
 
 a.Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?

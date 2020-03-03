@@ -6,26 +6,33 @@
 
 
 a.Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?
+b.What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area?
+
 After different magnitudes of earthquakes are plot in the Juan de Fuca, it was found that most of the earthquake exist on divergence and transform boundary. However, Transform boundary shows more earthquake and greater magnitude. 
 
-![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/MAP%20Earthquake%20magnitude%202010-2020.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Earthquake%20magnitude%202010-2020%20Scatterplot.png)
+![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/MAP%20Earthquake%20magnitude%202010-2020.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/range%20Earthquake%20magnitude%202010-2020%20Scatterplot.png)
 
 
-b.What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area?
+
 
 
 c.Map the earthquakes in April 2015 (inlude this map in your report). Wjere are those earthquakes mostly located? What event can you link these earthquakes to?
 
 ![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/MAP2%20Earthquake%202015.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Earthquake%202015.PNG)
 
+
+
 Identify a divergent boundary and a transform boundary on the map you selected in part I.
 d. What kind of patterns in earthquake magnitude and location you observe over time along each boundary?
 
+From the transform boundary graph, we can see that most earthquake comes from this location with a greater magnitude. Normally, Transform boundary produces more magnitude since its plates are moving against each other kind of in a shearing movement.
 ![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/TransformMap.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Transformgraph.png)
 
+Divergence exist just next to the transform graph as it shows wit hthe green line,
 ![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/DivergenceMap.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Divergencegraph.png)
+
 
 Conclusion:
 
 
-
+Reference:

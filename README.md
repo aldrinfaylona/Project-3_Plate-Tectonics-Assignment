@@ -36,7 +36,8 @@ Divergence exist just next to the transform graph as it shows with the green lin
 ![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/DivergenceMap.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Divergencegraph.png)
 
 ![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Extra%20credit.PNG)
-              extra credit
+
+               extra credit
 
 
  # Conclusion:

@@ -8,7 +8,9 @@
 a.Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?
 b.What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area?
 
-After different magnitudes of earthquakes are plot in the Juan de Fuca, it was found that most of the earthquake exist on divergence and transform boundary. However, Transform boundary shows more earthquake and greater magnitude. 
+After different magnitudes of earthquakes are plot in the Juan de Fuca, it was found that most of the earthquake exist on divergence and transform boundary. However, Transform boundary shows more earthquake and greater magnitude (shown with a red line). It make sense that most of the earthquake exist on the transform boundary since this is where two plates starts shearing from each other. This causes strong earthquakes which is what are detected by the data. 
+
+The range of the earthquake as shown on the image below is from 2.5-7.8 in magnitude. The average is also calculated to be pretty low which is 3.4. This makes sense that the average is low since most of the earthquakes happening are pretty weak and big one which is above 5 in magnitude rarely happens.
 
 ![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/MAP%20Earthquake%20magnitude%202010-2020.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/range%20Earthquake%20magnitude%202010-2020%20Scatterplot.png)
 
@@ -17,6 +19,8 @@ After different magnitudes of earthquakes are plot in the Juan de Fuca, it was f
 
 
 c.Map the earthquakes in April 2015 (inlude this map in your report). Where are those earthquakes mostly located? What event can you link these earthquakes to?
+
+Axial seamount is an active volcano just recently been detected in the 1970s. According from records, large packs of sensors were dropped in the 1980s. Since it is located on the divergence zone, lava flows have been detected from time to time in which it pushes the two plates apart. It erupted back in 2011 which produced a mile wide lava flow. However, it recenlty just erupted again in 2015 in which what our sensors probably recorded. The scatter plot seems to be odd, but suddenly shows numerous earthquake in mid arpil of 2015. 
 
 ![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/MAP2%20Earthquake%202015.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Earthquake%202015.PNG)
 
@@ -33,6 +37,8 @@ Divergence exist just next to the transform graph as it shows with the green lin
 
 
 Conclusion:
-
+Doing this project has thought me how to be able to keep researching things to get the code needed to solve this project. Overall, it was found that more earthquake exist on the transform boundary comapre to the divergence. I also learned how to plot different magnitude of earthquakes on a map.
 
 Reference:
+https://volcano.si.edu/volcano.cfm?vn=331021
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php

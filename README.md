@@ -39,9 +39,6 @@ From the transform boundary graph which has a red color line, we can see that mo
 Divergence exist just next to the transform graph as it shows with the green line, from the bottom divergence we can see that experince more earthquake than on the top divergence line. The bottom divergence most likely experince more earthquake since it's pretty close to the top and bottom transform boundary. Divergence is when magma pushes the two plates apart. It make sense that this type of boundary experience less magnitude since what's coming out is fluid. Unlike tranform boundary where two lands shear against each other.  Similarly to scatter plot above, it shows that most of the earthquake are below five magnitude.
 ![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/DivergenceMap.PNG) ![alt-text-2](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Divergencegraph.png)
 
-![alt-text-1](https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment/blob/master/Project%203-Plate%20Tectonics/Extra%20credit.PNG)
-
-               extra credit
 
 
  # Conclusion:

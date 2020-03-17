@@ -1,5 +1,7 @@
 https://github.com/aldrinfaylona/Project-3_Plate-Tectonics-Assignment.git
 
+Extra credit: http://aldrinfaylona.github.io/Trail2extracredit/Extracredit.html.
+
 # Project-3_Plate-Tectonics-Assignment
 
  #   Introduction:
